@@ -1,0 +1,65 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 08 Jul 2016 18:29:23 at http://eu.battle.net/wow/en/legion/#home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://eu.battle.net/wow/en/legion/#home -O1 "C:\Users\Niki\Desktop\legion\legion" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:29	Warning: 	Found for eu.battle.net/robots.txt
+18:29:29	Warning: 	File has moved from eu.battle.net/robots.txt to http://eu.battle.net/en/robots.txt
+18:37:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=23f45f39-cbf3-41cf-912f-e015fde06357
+18:37:19	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+18:37:19	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+18:37:38	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from eu.battle.net/wow/en/legion/)
+18:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-content-background.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-bg-left-body.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-bg-left-bottom.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-bg-left-top.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-sprite.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-arrows-compact.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/wiki-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-brewfest-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-childrens-week-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-darkmoon-faire-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-day-of-the-dead-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-feast-of-winter-veil-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-hallows-end-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-harvest-festival-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-love-is-in-the-air-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-lunar-festival-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-midsummer-fire-festival-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-new-year-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-noblegarden-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-pilgrims-bounty-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-pirates-day-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-stranglethorn-fishing-extravaganza-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-wow-anniversary-box-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-medallion-sprite.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/icon-flyout-arrows.gif (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/basic-comments-bg.jpg (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/events-sidebar-sprite.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/media-sprite.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-related-wrapper-top.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-divider-deco.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/race-icons-sprite.gif (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-related-wrapper-bg.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-related-wrapper-bottom.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-related-wrapper-middle.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-divider-scroll-deco.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-scroll-middle.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-scroll-top.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/character-scroll-bottom.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/timeline-sprites.png (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link bnetcmsus-a.akamaihd.net/cms/template_resource/images/wow/icon-goto-fansite.gif (from bnetcmsus-a.akamaihd.net/cms/template_resource/wow/css/wow.min.1.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/local-common/images/icons/sprite-16.png (from eu.battle.net/wow/static/local-common/css/common.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/local-common/images/icons/sprite-24.png (from eu.battle.net/wow/static/local-common/css/common.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/local-common/images/icons/sprite-32.png (from eu.battle.net/wow/static/local-common/css/common.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/local-common/images/icons/sprite-48.png (from eu.battle.net/wow/static/local-common/css/common.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/local-common/images/icons/sprite-64.png (from eu.battle.net/wow/static/local-common/css/common.css?v=58-107)
+18:40:16	Error: 	"Not Found" (404) at link eu.battle.net/wow/static/images/toolkit/defaults/modals/modal-gradient.png (from eu.battle.net/wow/static/css/nav-client/nav-client.css?v=107)
+18:40:30	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+
+HTTrack Website Copier/3.48-22 mirror complete in 11 minutes 6 seconds : 276 links scanned, 224 files written (17068524 bytes overall) [16275321 bytes received at 24437 bytes/sec], 1192997 bytes transferred using HTTP compression in 60 files, ratio 25%, 3.2 requests per connection
+(49 errors, 5 warnings, 0 messages)

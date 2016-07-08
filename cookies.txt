@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+battle.net	TRUE	/	FALSE	1999999999	login.cookies	1
+eu.battle.net	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:0|g:8cdf7a3a-2c04-48ec-bd9a-243af6f1ff67"
+eu.battle.net	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:0|i:36989|e:74"
+
